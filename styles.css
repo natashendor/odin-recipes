@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    font-size: 125%;
+}
+img {
+    border-radius: 10px;
+}
